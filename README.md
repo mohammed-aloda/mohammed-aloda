@@ -3,10 +3,10 @@
 Mechatronics Engineering student (co-op) at the **University of Guelph**, building at the intersection of
 hardware, software and robotics. Looking for a **Summer 2027 robotics / mechatronics co-op**.
 
-- 🤖 Founder of **GryphDEX** (Gryphon Design & Engineering Exchange), a student engineering club running robotics and AI/ML projects
-- 🏎️ Currently building an ESP32-controlled RC drift car with a browser-based virtual cockpit
-- 🛍️ Designed, built and run [asilarchive.com](https://asilarchive.com), a live e-commerce store
-- 🏆 Hack the North 2026 · GenAI Genesis 2026
+- Founder of **GryphDEX** (Gryphon Design & Engineering Exchange), a student engineering club running robotics and AI/ML projects
+- Currently building an ESP32-controlled RC drift car with a browser-based virtual cockpit
+-  Designed, built and run [asilarchive.com](https://asilarchive.com), a live e-commerce store
+-  Hack the North 2026 · GenAI Genesis 2026
 
 ### Featured projects
 
